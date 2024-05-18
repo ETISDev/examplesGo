@@ -1,4 +1,4 @@
-module github.com/ETISDev/examplesGo/DomainMultiTenant/GinMultiTenant
+module github.com/ETISDev/examplesGo/domain-multi-tenant/gin-multi-tenant
 
 go 1.22.1
 
